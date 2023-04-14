@@ -1,0 +1,97 @@
+* {
+  font-family: monospace;
+  position: relative;
+}
+
+body {
+  background-color: black;
+}
+
+#logo {
+  background-color: lime;
+  color: black;
+  height: 20px;
+  font-size: 15px;
+  padding-top: 3px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+#titulo {
+  left: 5px;
+  color: lime;
+  font-size: 25px;
+}
+
+#sub_titulo {
+  left: 5px;
+  bottom: 10px;
+  font-size: 25px;
+  color: white;
+}
+
+#linha_separa {
+  background-color: lime;
+  color: black;
+  height: 5px;
+}
+
+#b_principal {
+  width: 330px;
+  height: 350px;
+  background-color: black;
+  color: white;
+  top: 10px;
+  font-size: 16px;
+  border-color: black;
+}
+
+.button {
+  width: 310px;
+  height: 50px;
+  top: 5px;
+  margin: auto;
+  bottom: 4px;
+  color: black;
+  font-size: 15px;
+  background-color: lime;
+  border-radius: 5px;
+  border-color: lime;
+}
+
+#logo_nc {
+  width: 150px;
+  text-align: center;
+  background-color: lime;
+  border-radius: 5px;
+  top: 5px;
+  color: black;
+}
+
+#entrada {
+  display: block;
+}
+
+#credito {
+  display: none;
+}
+
+#div_creditos {
+  width: 340px;
+  height: 400px;
+  background-color: lime;
+  border-radius: 10px;
+}
+
+#creditos_p {
+  width: 250px;
+  height: 350px;
+  left: 40px;
+  top: 10px;
+  background-color: black;
+  color: white;
+}
+
+#sair {
+  width: 341px;
+}
